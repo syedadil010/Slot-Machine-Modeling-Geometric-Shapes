@@ -16,3 +16,5 @@ A class that models a simple slot machine, using the geometric shapes created as
  The project also uses **C++ Smart Pointers** to represent the shapes in the 3 reels of the Slot Machine. It automatically deletes the current shape object and resets it to a new dynamically allocated Shape Object.
  
  
+ 
+ 
